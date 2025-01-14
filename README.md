@@ -5,6 +5,12 @@
 
   <h4>Things I code with</h4>
     <a href="https://react.dev/">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Badge"/>
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Badge"/>
+    </a>
+    <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge"/>
     </a>
     <a href="https://nextjs.org/">
@@ -33,9 +39,6 @@
     </a>
     <a href="https://nodejs.org/en">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Badge"/>
-    </a>
-    <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Badge"/>
     </a>
     <a href="https://flask.palletsprojects.com/en/stable/">
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Badge"/>
