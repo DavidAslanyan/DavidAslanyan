@@ -17,17 +17,17 @@
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Badge"/>
     </a>
     <h4>Frameworks and Libraries</h4>
-    <a href="https://laravel.com/">
-      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Badge"/>
-    </a>
-    <a href="https://nestjs.com/">
-      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Badge"/>
-    </a>
     <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge"/>
     </a>
     <a href="https://nextjs.org/">
       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Badge"/>
+    </a>
+    <a href="https://nestjs.com/">
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Badge"/>
+    </a>
+    <a href="https://reactnative.dev/">
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Badge"/>
     </a>
     <h4>Main Tools</h4>
     <a href="https://git-scm.com/">
