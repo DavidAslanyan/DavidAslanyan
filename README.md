@@ -2,7 +2,7 @@
                  
 <div>
   <p>I am a software engineer and you are welcome to explore my profile</p>
-  
+   
   <h4>Languages I work with</h4>
     <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Badge"/>
